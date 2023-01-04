@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.bg-keppel {
+    background-color: #5DE1C4 !important;
+}
+
+.bg-turquoise {
+    background-color: turquoise !important;
+}
+
+.bg-aeroblue {
+    background-color: #C2FAE3 !important;
+}
+
+.f-green-blue {
+    color: #0067c5 !important;
+}
+
+.border-persian {
+    border-color: #01998d !important;
+}
+
+.border-greenblue {
+    border-color: #0AB69F !important;
+}
+
+.opacity0 {
+    opacity: 0;
+}
+
+.hidden {
+    display: none !important;
+}
+
+.width100 {
+    width: 100%;
+}
+
+.res-search-container:hover {
+    background-color: #01998d !important;
+    border-color: black !important;
+}

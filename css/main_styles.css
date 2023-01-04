@@ -1,0 +1,19 @@
+.bgimgvip {
+    background-image: url("../images/vipzone.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.wrapper{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.width100 {
+    width: 20em;
+}
+
+
+
